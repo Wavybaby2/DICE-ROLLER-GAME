@@ -38,6 +38,7 @@ input{
     padding: 5px;
     width: 70px;
     height: 20px;
+    display: none;
     border: 2px solid blue;
     border-radius: 10px;
     background-color: rgb(25, 217, 217);
